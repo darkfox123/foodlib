@@ -4,7 +4,7 @@ import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
-class FoodVeda {
+public class FoodVeda {
 
     public static void restaurantLoader(Context c, String resId){
 
