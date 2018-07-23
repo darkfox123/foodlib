@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209000529500",
+    "firebase_url": "https://playstore/food-ordering-in.firebaseio.com",
+    "project_id": "food-ordering-in",
+    "storage_bucket": "food-ordering-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209000529500:android:c76a84ee408d85c8",
+        "android_client_info": {
+          "package_name": "com.abhiandroid.foodorderingin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209000529500-lp1kl12edcajv1n429jsjokd8o0qkhuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD3R9yRdnEAfmfQeIrHXUzEhcTliR7Uzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
